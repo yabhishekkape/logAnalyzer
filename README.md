@@ -4,6 +4,7 @@ Analyze log and show flagged event
 To run :
 
 Run AppLogManager.java class 
+path :com/demo/logAnalyser/AppLogManager.java
 ![image](https://user-images.githubusercontent.com/41874977/155900656-5e4e3f75-fe4f-42f9-bce4-5cabb33804fd.png)
 
 To Test Run :
