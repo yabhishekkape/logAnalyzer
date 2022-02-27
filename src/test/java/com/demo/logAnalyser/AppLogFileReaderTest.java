@@ -9,9 +9,10 @@ import java.util.List;
 import java.util.Map;
 import java.util.Optional;
 
-import static org.junit.Assert.assertThrows;
 
- public class AppLogFileReaderTest {
+import static org.junit.jupiter.api.Assertions.assertThrows;
+
+public class AppLogFileReaderTest {
 
     private static final String INPUT_PATH_INVALID = "invalid_path";
     private static final String INPUT_PATH_EMPTY_FILE = "src/test/java/resources/empty.text";
